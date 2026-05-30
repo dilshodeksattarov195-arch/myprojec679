@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorvetch",
+        "uuid": 2396191,
+        "checksum": "m6snyl"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
